@@ -1,0 +1,190 @@
+*{
+    box-sizing: border-box;
+}
+.father nav{
+background-color: rgb(56, 4, 101);
+padding: 20px;
+text-align: center;
+}
+.father a{
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.father .child{
+    color: green;
+}
+.father3 .child5{
+    font-size: 27px;
+    
+
+}
+.father3 .child6{
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-bottom: 50px;
+    margin-top: 40px;
+    /* font-family: Arial, Helvetica, sans-serif; */
+}
+.father3 .child7{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(153,216,202);
+    border: 15px solid rgb(88,115,226);
+    outline: 7px solid black;
+    box-shadow: 0px 0px 0px 25px rgb(144,255,169);
+    margin-left: 35%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.father5 .child13{
+    width: 24px;
+    height: 24px;
+    background-color: black;
+    margin: 5px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+    border: 2px solid black;
+}
+.father5 .child8{
+   background-color:rgb(153,216,202) ; 
+}
+.father5 .child9{
+    background-color:rgb(13,20,48) ;
+}
+.father5 .child10{
+    background-color:rgb(144,255,169) ;
+}
+.father5 .child11{
+    background-color:rgb(88,115,226) ;
+}
+.father5 p{
+    font-size: 18px;
+    font-weight: 600;
+    
+}
+.father5{
+    padding-top: 30px;
+    margin-bottom: 30px;
+
+}
+.father5 p{
+    display: inline-block;
+}
+.father3{
+    border-bottom: 2px dotted rgba(0, 0, 0, 0.703);
+    width: 40%;
+    margin-left: 30%;
+    text-align: center;
+}
+.father6 .child15{
+    width: 180px;
+    height: 100px;
+    background-color: rgb(218,224,250);
+    margin: 5px;
+    display: inline-block;
+    
+    
+  }
+  .father6 .child14{
+    
+  border: 2px solid black;
+  display: inline-block;
+  margin-bottom: 40px;
+      
+  }
+  .father6{
+      border-bottom: 2px dotted rgba(0, 0, 0, 0.773) ;
+      width: 40%;
+      margin-left: 31%;
+      
+  }
+  .father6 p{
+    font-size: 22px;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 30px;
+  }
+  .child16 .child17{
+    width: 180px;
+    height: 100px;
+    background-color: rgb(218,224,250);
+    margin: 5px;
+    display: inline-block;
+    border: 2px solid black;
+    margin-top: 7px;
+  }
+  .child16{
+    margin-left: 31%;
+    border: 2px solid black;
+    display: inline-block;
+    margin-top: 40px;
+  }
+
+/* ############### BLOG ################ */
+
+.father2 img{
+    width: 500px;  
+    margin-right: 20px;
+}
+.father2 .child2{
+    width: 450px;
+    vertical-align: top;
+    
+}
+.father2 .child{
+    display: inline-block;
+}
+.child2 a{
+    background-color: green;
+    text-decoration: none;
+    padding: 15px 25px;
+    display: inline-block;
+    border-radius: 40px;
+    color: white;
+    
+}
+.father2{
+    padding: 40px;
+    margin-left: 235px;
+}
+
+h1{
+    margin: 0;
+}
+.child3{
+    width: 500px;
+}
+.child4{
+    width: 500px;
+    vertical-align: top;
+}
+ .child4 a{
+    color: green;
+    font-size: 20px;
+    font-weight: 700;
+}
+ .child3 a{
+    color: green;
+    font-size: 20px;
+    font-weight: 700;
+}
+.father3{
+    padding: 10px;
+}
+.child3, .child4{
+    padding: 30px 20px 0px 0px;
+}
+.child3 img{
+    margin-bottom: 15px;
+}
+.child4 img{
+    margin-bottom: 15px;
+}
+
+
+
